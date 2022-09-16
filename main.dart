@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 void main(){
 
   runApp(const MaterialApp(
-    title: 'Counting the students',
+    title: 'BMI Calculator',
     home: Home(),
     debugShowCheckedModeBanner: false,
   ));
